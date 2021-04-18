@@ -56,24 +56,6 @@
 
 
 
-# 📜회의록
-
-**SubPJT3 1주차 - 핵심기능구현, 로컬 배포**
-
-[2021.02.01(월)_회의록](https://www.notion.so/2021-02-01-_-83559ab29920491885d471022358b444) <br>
-[2021.02.02(화)_회의록](https://www.notion.so/2021-02-02-_-96882fb264dc417f81d2d848e793e139) <br>
-[2021.02.03(수)_회의록](https://www.notion.so/2021-02-03-_-91f6fbfdbb6a456b9467931362677f9a) <br>
-[2021.02.04(목)_회의록](https://www.notion.so/2021-02-04-_-2120ad1fd48d4d30a2c1837dfb2d231d) <br>
-[2021.02.05(금)_회의록](https://www.notion.so/2021-02-05-_-c160b7cfd3cf44d7a29500815b984f26) <br>
-
----
-
-**SubPJT3 2주차 - UI/UX, 도커 배포(젠킨스), UCC**
-
-[2021.02.08(월)_회의록](https://www.notion.so/2021-02-08-_-34c59144de5e4cd2a61f2e80c3f836cb) <br>
-[2021.02.09(화)_회의록](https://www.notion.so/2021-02-09-_-1d537e59e7a245dc8cf43e7033b64aa5) <br>
-
-<br>
 <br>
 
 # ⚙Tech Stack
